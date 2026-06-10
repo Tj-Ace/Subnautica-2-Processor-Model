@@ -1,0 +1,29 @@
+{
+  "Textures": {},
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Input_Curve": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bUsedWithSkeletalMesh": true,
+      "bUsedWithInstancedStaticMeshes": true,
+      "bUsedWithNanite": true,
+      "StateId": "DA94961B-488EBCF5-6150B6A3-F55DF920",
+      "bIncludedInBaseGame": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": true
+  }
+}

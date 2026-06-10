@@ -1,0 +1,130 @@
+{
+  "Textures": {
+    "NMM": "/Game/Art/Surfaces/Tiling/Alterra/Trimsheet01/T_Trimsheet_01_NMM.T_Trimsheet_01_NMM",
+    "AMOH": "/Game/Art/Surfaces/Tiling/Alterra/Trimsheet01/T_Trimsheet_01_AMOH.T_Trimsheet_01_AMOH",
+    "Tiling BCM": "/Game/Art/Surfaces/Tiling/Alterra/Wear/T_Alterra_Wear_01_BCM.T_Alterra_Wear_01_BCM",
+    "NR": "/Game/Art/Surfaces/Tiling/Alterra/Trimsheet01/T_Base_NR.T_Base_NR",
+    "DecalStripeTexture": "/Game/Art/Surfaces/Tiling/Alterra/T_BaseBuilding_InfoDecalStripes.T_BaseBuilding_InfoDecalStripes",
+    "T_Trimsheet_01_AMOH": "/Game/Art/Surfaces/Tiling/Alterra/Trimsheet01/T_Trimsheet_01_AMOH.T_Trimsheet_01_AMOH",
+    "T_Trimsheet_01_NMM": "/Game/Art/Surfaces/Tiling/Alterra/Trimsheet01/T_Trimsheet_01_NMM.T_Trimsheet_01_NMM",
+    "T_Base_NR": "/Game/Art/Surfaces/Tiling/Alterra/Trimsheet01/T_Base_NR.T_Base_NR"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "InvalidColor": {
+        "R": 1.0,
+        "G": 0.011612,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF1C00"
+      },
+      "DeconstructColor": {
+        "R": 1.0,
+        "G": 0.210323,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF7E00"
+      },
+      "Accent1_Color": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.8,
+        "Hex": "CC000000"
+      },
+      "Accent2_Color": {
+        "R": 0.056128,
+        "G": 0.141263,
+        "B": 0.250158,
+        "A": 1.0,
+        "Hex": "436989"
+      },
+      "Material_Color": {
+        "R": 0.775822,
+        "G": 0.181164,
+        "B": 0.023153,
+        "A": 1.0,
+        "Hex": "E4762A"
+      }
+    },
+    "Scalars": {
+      "AutoBlendID": 1.0,
+      "StaticAutoBlendID": 1.0,
+      "HeightRatio": 0.05,
+      "ReferencePlane": 0.5,
+      "MinStep": 16.0,
+      "MaxStep": 64.0,
+      "Dithering": 1.2,
+      "ColorCurve_BCM": 6.0,
+      "ColorCurve_R": 7.0,
+      "ColorCurve_AO_Color": 8.0,
+      "ColorCurve_EdgeMask_Color": 9.0,
+      "Normal_Flatten": 0.0,
+      "ColorCurve_Accents": 5.0,
+      "Sharpness": 3.4,
+      "Texture Scale Near": 100.0,
+      "Texture Scale Mid": 150.0,
+      "World_Tiling_Units_2": 500.0,
+      "Desaturate_BCM": 0.0,
+      "Darken_BCM": 0.0,
+      "SupportValue": 0.65,
+      "IsDeconstruct": 0.0,
+      "Camera Far Fade Distance": 7500.0,
+      "Camera Far Start Blend Range": 5000.0,
+      "Near Camera Fade Distance": 20.0,
+      "BuildGhostAlpha": 0.0,
+      "CPD_Exterior": 0.0,
+      "CustomPrimData_01": 0.0,
+      "CustomPrimData_02": 0.0,
+      "CustomPrimData_03": 0.0,
+      "CustomPrimData_04": 0.0,
+      "CustomPrimData_05": 0.0,
+      "CustomPrimData_06": 0.0,
+      "CustomPrimData_07": 0.0,
+      "World_Projection_OffsetY": 0.174,
+      "World_Tiling_Units": 500.0,
+      "Info Decal Selection": 4.0,
+      "World_Projection_OffsetX": 0.0,
+      "UV_Offset": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "DebugNormals": false,
+      "DisableGrungeNormals?": true,
+      "UsePOM": true,
+      "Roughness_Grunge_Triplanar?": false
+    },
+    "Properties": {
+      "PhysMaterial": {
+        "ObjectName": "PhysicalMaterial'PM_Metal'",
+        "ObjectPath": "/Game/Materials/Phys_Materials/PM_Metal.0"
+      },
+      "TranslucencyLightingMode": "ETranslucencyLightingMode::TLM_SurfacePerPixelLighting",
+      "bUsedWithSkeletalMesh": true,
+      "bUsedWithNiagaraMeshParticles": true,
+      "bUsedWithMorphTargets": true,
+      "bUsedWithInstancedStaticMeshes": true,
+      "bUsedWithNanite": true,
+      "bUseMaterialAttributes": true,
+      "bCastRayTracedShadows": false,
+      "bOutputTranslucentVelocity": true,
+      "PixelDepthOffsetMode": "EPixelDepthOffsetMode::PDOM_Legacy",
+      "StateId": "7F8B8A4A-43F531BD-261D49BD-E6AFB404",
+      "bIncludedInBaseGame": true,
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
